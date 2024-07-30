@@ -10,4 +10,4 @@ redirect_from:
 My name is Jackson Douglas and I am a senior at Cornell University majoring in [Operations Research and Information Engineering](https://www.orie.cornell.edu/orie).
 
 
-**This site is currently under construction**
+This page is currently under construction.  Please check back later for updates.
