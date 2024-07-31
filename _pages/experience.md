@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="/images/nyulangonehealth_logo.jpg" alt="NYU Langone Health" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
         <strong>Currently at: NYU Langone Health</strong><br>
@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <img src="/images/cornell_logo.jpg" alt="Cornell Engineering" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
         <strong>Cornell Engineering</strong><br>
