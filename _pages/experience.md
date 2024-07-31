@@ -15,6 +15,8 @@ author_profile: true
     </div>
 </div>
 
+---
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="/images/cornell_logo.jpg" alt="Cornell Engineering" style="width: 100px; height: 100px; margin-right: 20px;">
     <div>
